@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visilanti
 - 👀 I’m interested in movie
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m a Learner 
 
 
 <!---
